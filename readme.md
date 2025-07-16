@@ -14,14 +14,15 @@ npm install -g snapsocket-cli
 snapsocket run <yaml-filepath> -c <number-of-clients> -a <ws/socketio> -e <json/csv>
 ```
 
+```
 -c --clients <number>, "Number of clients", 100
 -a --adapter <type>, "ws/socketio", ws
 -e --export <format>, "json/csv", json
+```
 
 #### example
 
 ```bash
-
 snapsocket run samples/chat-flow.yaml --clients 200 --adapter socketio --export csv
 ```
 
