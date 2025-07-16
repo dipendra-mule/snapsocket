@@ -1,4 +1,4 @@
-# SnapSocket CLI
+<img width="442" height="194" alt="Screenshot 2025-07-17 003049" src="https://github.com/user-attachments/assets/15a26e55-8526-471e-8a11-37f59fbf9826" /># SnapSocket CLI
 
 WebSocket Load Testing Tool
 
@@ -37,6 +37,8 @@ flow:
   - wait_for: '{"event":"joined"}'
   - disconnect
 ```
+
+<img width="419" height="199" alt="Screenshot 2025-07-16 202857" src="https://github.com/user-attachments/assets/f884a704-421f-4096-930b-da42653d8366" />
 
 ## Features
 
