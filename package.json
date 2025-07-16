@@ -1,6 +1,6 @@
 {
   "name": "snapsocket-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "module",
   "bin": {
     "snapsocket": "./bin/snapsocket"
@@ -28,5 +28,10 @@
     "socket.io-client": "^4.8.1",
     "ws": "^8.18.3",
     "yaml": "^2.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dipendra-mule/snapsocket-cli.git"
+  },
+  "homepage": "https://github.com/dipendra-mule/snapsocket-cli"
 }
