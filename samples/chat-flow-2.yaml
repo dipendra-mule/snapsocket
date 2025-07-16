@@ -1,0 +1,9 @@
+flow:
+  - connect: "ws://localhost:3000"
+  - send: '{"event":"auth","token":"token123"}'
+  - wait_for: '{"event":"auth_success","userId":"token123"}'
+  - send: '{"event":"join","room":"test-room"}'
+  - wait_for: '{"event":"joined","room":"test-room"}'
+  - send: '{"event":"message","text":"Hello from SnapSocket!"}'
+  - wait_for: '{"event":"message_ack","text":"Hello from SnapSocket!"}'
+  - disconnect:

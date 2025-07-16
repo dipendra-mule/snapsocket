@@ -1,0 +1,19 @@
+[
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 34,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Received: {\"type\":\"connected\"}",
+      "Sent: {\"event\":\"auth\",\"token\":\"user_token\"}",
+      "Received: {\"event\":\"auth_success\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"general\"}",
+      "Received: {\"event\":\"joined\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello world!\"}",
+      "Received: {\"event\":\"message_ack\"}",
+      "Disconnected"
+    ],
+    "steps": 9
+  }
+]

@@ -1,0 +1,10 @@
+flow:
+  - connect: "ws://localhost:3000"
+  - wait_for: '{"type":"connected"}'
+  - send: '{"event":"auth","token":"user_token"}'
+  - wait_for: '{"event":"auth_success"}'
+  - send: '{"event":"join","room":"general"}'
+  - wait_for: '{"event":"joined"}'
+  - send: '{"event":"message","text":"Hello world!"}'
+  - wait_for: '{"event":"message_ack"}'
+  - disconnect:

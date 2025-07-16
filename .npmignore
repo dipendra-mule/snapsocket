@@ -1,0 +1,38 @@
+# Ignore test/demo files
+examples/
+test/
+exportedData/
+samples/
+tests/
+*.test.js
+*.spec.js
+.dir
+# Ignore dev-only files
+*.log
+.vscode/
+.DS_Store
+.env
+.env.*
+
+# Ignore Node-related cruft
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Ignore server used for testing (put it in examples/)
+**/test-server.js
+
+# Ignore YAML test flows (used for demos)
+**/*.yaml
+
+# Ignore source maps or build artifacts
+*.map
+dist/
+coverage/
+
+# Git-related
+.git
+.gitignore
+
+# Optional: ignore CLI binary if not needed in package
+bin/

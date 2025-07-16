@@ -1,0 +1,3202 @@
+[
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 209,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 188,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 187,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 186,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 185,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 184,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 184,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 184,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 183,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 181,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 180,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 179,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 177,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 175,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 173,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 172,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 172,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 170,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 170,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 159,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 154,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 153,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 147,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 132,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 170,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 168,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 168,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 166,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 164,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 164,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 162,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 155,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 154,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 154,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 153,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 152,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 151,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 150,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 149,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 150,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 148,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 149,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 147,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 147,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 146,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 144,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 142,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 140,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 139,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 138,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 80,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 113,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 130,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 129,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 129,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 128,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 128,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 128,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 127,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 127,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 126,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 125,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 125,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 123,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 123,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 123,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 122,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 121,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 121,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 119,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 118,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 117,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 116,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 115,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 114,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 114,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 113,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 111,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 111,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 110,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 107,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 107,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 105,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 105,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 105,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 103,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 103,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 103,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 102,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 102,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 102,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 102,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 102,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 102,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 102,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 131,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 130,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 130,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 130,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 131,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 131,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 131,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 129,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 129,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 128,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 127,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 127,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 127,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 126,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 125,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 125,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 123,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 123,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 121,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 121,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 120,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 119,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 119,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 119,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 118,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 117,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 117,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 116,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 115,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 115,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 115,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 114,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 113,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 112,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 111,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 111,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 110,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 110,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 110,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 109,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 109,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 109,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 108,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 111,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 111,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 111,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 110,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 110,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 108,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 107,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 104,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 128,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 153,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 150,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 142,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 128,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 128,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 126,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 125,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 125,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 125,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 124,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 122,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 117,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 114,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 113,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 113,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 112,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 111,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 112,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 111,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 110,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 110,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 110,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 109,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 109,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 109,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 108,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 107,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 105,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 98,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 107,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 107,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 106,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 107,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 108,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 108,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 109,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 108,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 109,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  },
+  {
+    "success": true,
+    "error": null,
+    "totalTime": 108,
+    "logs": [
+      "Connected to ws://localhost:3000",
+      "Sent: {\"event\":\"auth\",\"token\":\"token123\"}",
+      "Received: {\"event\":\"auth_success\",\"userId\":\"token123\"}",
+      "Sent: {\"event\":\"join\",\"room\":\"test-room\"}",
+      "Received: {\"event\":\"joined\",\"room\":\"test-room\"}",
+      "Sent: {\"event\":\"message\",\"text\":\"Hello from SnapSocket!\"}",
+      "Received: {\"event\":\"message_ack\",\"text\":\"Hello from SnapSocket!\"}",
+      "Disconnected"
+    ],
+    "steps": 8
+  }
+]
