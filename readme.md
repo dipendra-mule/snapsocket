@@ -1,4 +1,4 @@
-<img width="442" height="194" alt="Screenshot 2025-07-17 003049" src="https://github.com/user-attachments/assets/15a26e55-8526-471e-8a11-37f59fbf9826" /># SnapSocket CLI
+# SnapSocket CLI
 
 WebSocket Load Testing Tool
 
