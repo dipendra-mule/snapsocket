@@ -34,7 +34,7 @@ flow:
 - Export results to JSON/CSV
 - Supports raw WebSocket and Socket.IO
 
-## 🧪 Run Test Server (Local)
+## Run Test Server (Local)
 
 To simulate a WebSocket server with fake auth:
 
