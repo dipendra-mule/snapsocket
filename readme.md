@@ -5,7 +5,7 @@ WebSocket Load Testing Tool
 ## Installation
 
 ```bash
-npm install -g snapsocket-cli
+npm i snapsocket-cli
 ```
 
 ## Usage
