@@ -5,6 +5,19 @@
   "bin": {
     "snapsocket": "./bin/snapsocket"
   },
+  "keywords": [
+    "websocket",
+    "socket.io",
+    "load testing",
+    "benchmarking",
+    "cli",
+    "performance",
+    "ws",
+    "test tool",
+    "network",
+    "yaml",
+    "concurrent clients"
+  ],
   "author": "dipendra-m",
   "license": "MIT",
   "dependencies": {
