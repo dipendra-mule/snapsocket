@@ -1,4 +1,5 @@
 # SnapSocket CLI
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/01d0e5b5-dba5-4609-bd81-8354f400b74c" />
 
 WebSocket Load Testing Tool
 
