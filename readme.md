@@ -45,7 +45,7 @@ flow:
 
 ## Features
 
-- Simulate 100-500 concurrent clients
+- Simulate 1000-5000 concurrent clients
 - Execute custom YAML workflows
 - Measure latency and error rates
 - Export results to JSON/CSV
